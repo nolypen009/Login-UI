@@ -102,3 +102,9 @@ body{
     z-index: 1;
     margin-top: -5px;
 }
+
+.form-button:hover{
+    background-color: blue;
+    border: 5px solid blue;
+    cursor: pointer;
+}
